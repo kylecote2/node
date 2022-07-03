@@ -2,6 +2,9 @@
   "name": "aaaaaaa",
   "version": "1.0.0",
   "lockfileVersion": 2,
+  "engines": {
+    "node": "16.x"
+  }
   "requires": true,
   "packages": {
     "": {
